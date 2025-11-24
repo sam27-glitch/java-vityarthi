@@ -1,0 +1,2 @@
+income,papa,200.0,2025-11-24,pocket money
+expense,stationary,200.0,2025-11-24,notebook
